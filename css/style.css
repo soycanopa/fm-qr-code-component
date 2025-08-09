@@ -1,0 +1,42 @@
+/* Reset Browser */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Root Variables */
+
+:root {
+    /* Colors */
+    --slate-900: #1f314f;
+    --slate-500: #68778d;
+    --slate-300: #d5e1ef;
+    --white: #fafafa;
+
+    /* Font */
+    --title: {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 1.375rem;
+        line-height: 1.2;
+        color: var(--slate-900);
+        letter-spacing: 0rem;
+    }
+
+    --body: {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 0.9375rem;
+        line-height: 1.4;
+        color: var(--slate-900);
+        letter-spacing: 0rem;
+    }
+
+    /* Spacing */
+    --spacing-500: 2.5rem;
+    --spacing-300: 1.5rem;
+    --spacing-200: 1rem;
+
+}
