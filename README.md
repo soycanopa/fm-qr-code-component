@@ -11,9 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -24,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/soycanopa/fm-qr-code-component)
-- Live Site URL: [Add live site URL here](https://soycanopa.github.io/fm-qr-code-component/)
+- Solution URL: [Github](https://github.com/soycanopa/fm-qr-code-component)
+- Live Site URL: [Github Pages](https://soycanopa.github.io/fm-qr-code-component/)
 
 ## My process
 
